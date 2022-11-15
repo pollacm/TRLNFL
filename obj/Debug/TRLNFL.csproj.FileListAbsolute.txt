@@ -1,0 +1,14 @@
+E:\Source\Repos\TRLNFL\RML\bin\Debug\TRLSwingers.exe.config
+E:\Source\Repos\TRLNFL\RML\bin\Debug\TRLSwingers.exe
+E:\Source\Repos\TRLNFL\RML\bin\Debug\TRLSwingers.pdb
+E:\Source\Repos\TRLNFL\RML\bin\Debug\Newtonsoft.Json.dll
+E:\Source\Repos\TRLNFL\RML\bin\Debug\WebDriver.dll
+E:\Source\Repos\TRLNFL\RML\bin\Debug\WebDriver.Support.dll
+E:\Source\Repos\TRLNFL\RML\bin\Debug\Newtonsoft.Json.xml
+E:\Source\Repos\TRLNFL\RML\bin\Debug\WebDriver.xml
+E:\Source\Repos\TRLNFL\RML\bin\Debug\WebDriver.Support.xml
+E:\Source\Repos\TRLNFL\RML\obj\Debug\TRLNFL.csproj.CoreCompileInputs.cache
+E:\Source\Repos\TRLNFL\RML\obj\Debug\TRLNFL.csproj.CopyComplete
+E:\Source\Repos\TRLNFL\RML\obj\Debug\TRLSwingers.exe
+E:\Source\Repos\TRLNFL\RML\obj\Debug\TRLSwingers.pdb
+E:\Source\Repos\TRLNFL\RML\obj\Debug\TRLNFL.csprojAssemblyReference.cache
